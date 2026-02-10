@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-nav_order: 4
+nav_order: 2
 ---
 
 # Projects
@@ -13,7 +13,12 @@ Usually a lot of developers wouldn't bother to document their projects, but as I
 If you're interested in any of the projects, feel free to reach out to me
 
 # 2026
-
+- **Open University: BCS Computing + IT**
+    - **Description**: 1 year left
+    - **Tech**: Javascript, HTML, CSS, React Native, React, Svelte
+- **Trakkt**
+    - **Description**: TBA
+    - **Tech**: AWS, AWS CDK, TS, MongoDB
 
 # 2025
 - **Contributions to discovery.onl Project**
