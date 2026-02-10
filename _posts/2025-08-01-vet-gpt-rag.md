@@ -177,7 +177,7 @@ for procedure_dir in procedures_dir.iterdir():
 Messy at the moment as I want to abstract this to work with other topics such as medications, nutrition, etc. And eventually I want to support other file types such as images, videos, etc.
 
 **Qdrant Dashboard**
-![Qdrant Dashboard](https://storage.googleapis.com/rexchoppers-website-assets/vet-gpt-qdrant.png "Qdrant Dashboard")
+![Qdrant Dashboard](/assets/vet-gpt-qdrant.png "Qdrant Dashboard")
 
 # 4. Querying the model
 Now that we have the data in the vector database, we can query it using the pre-trained model. The query will take the user's question, convert it into a vector using the same SentenceTransformer model, and then search the Qdrant database for the most relevant vectors. The retrieved vectors will be used to provide context to the pre-trained model, which will generate a response based on the question.
@@ -296,7 +296,7 @@ async def query(query: Query):
 
 # 5. Response
 **Model Response**
-![Model Response](https://storage.googleapis.com/rexchoppers-website-assets/vet-gpt-tplo-response.jpeg "Model Response")
+![Model Response](/assets/vet-gpt-tplo-response.jpeg "Model Response")
 
 Hell yeah this is exciting. With information fed from simple PDFs, we can get a response that is relevant to the question asked. As more data is added, we can ask more complex question, get more detailed responses and eventually get this into a web interface that can be used by vets and pet owners alike.
 

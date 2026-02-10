@@ -52,16 +52,16 @@ Most of the information on setting time etc... Can be found in the instruction b
 
 **Home screen**
 
-![Home screen](https://storage.googleapis.com/rexchoppers-website-assets/general-screen.jpeg "Home screen")
+![Home screen](/assets/general-screen.jpeg "Home screen")
 
 **Password screen**
 
-![Password screen](https://storage.googleapis.com/rexchoppers-website-assets/password-screen.jpeg "Password screen")
+![Password screen](/assets/password-screen.jpeg "Password screen")
 
 **Programming: Page 1**
 
-![Programming: Page 1](https://storage.googleapis.com/rexchoppers-website-assets/programming-first-page.jpeg "Programming: Page 1")
+![Programming: Page 1](/assets/programming-first-page.jpeg "Programming: Page 1")
 
 **Programming: Page 2**
 
-![Programming: Page 2](https://storage.googleapis.com/rexchoppers-website-assets/programming-second-page.jpeg "Programming: Page 2")
+![Programming: Page 2](/assets/programming-second-page.jpeg "Programming: Page 2")

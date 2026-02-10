@@ -8,9 +8,9 @@ One of my first jobs "in the industry" was programming software for a fulfillmen
 
 Most of the warehouse equipment had a lot of support and was fairly easy write code for. Until in October 2017, my manager decided to put one of these on my desk
 
-![Symbol MC70](https://storage.googleapis.com/rexchoppers-website-assets/symbol-mc70.jpeg "Symbol MC70"){: width="250" }
+![Symbol MC70](/assets/symbol-mc70.jpeg "Symbol MC70"){: width="250" }
 
-[MC70 Spec Sheet](https://storage.googleapis.com/rexchoppers-website-assets/mc70-spec-sheet.pdf)
+[MC70 Spec Sheet](/assets/mc70-spec-sheet.pdf)
 
 [Image Source](https://www.thebarcodewarehouse.co.uk/shop/motorola/motorola-discontinued-products/symbol-mc70/)
 
@@ -30,7 +30,7 @@ Whilst there was an option to use a VM, the lag whilst programming would have dr
 
 I was terrified about installing lots of old software on this PC and having it anywhere near the company's network, so builds were transferred via USB instead.
 
-![Under my work's desk](https://storage.googleapis.com/rexchoppers-website-assets/windows-xp-machine.jpeg "Under my work's desk"){: width="250" }
+![Under my work's desk](/assets/windows-xp-machine.jpeg "Under my work's desk"){: width="250" }
 
 #### Visual Studio 2005
 With Windows XP installed, I managed to locate a free install of Visual Studio 2005 on a website.
@@ -39,7 +39,7 @@ The picture isn't very clear but subsequent photos will be better. This was a qu
 
 [Wiki for Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio#History)
 
-![Visual Studio 2005](https://storage.googleapis.com/rexchoppers-website-assets/visual-studio-2005.jpeg "Visual Studio 2005"){: width="250" }
+![Visual Studio 2005](/assets/visual-studio-2005.jpeg "Visual Studio 2005"){: width="250" }
 
 #### FTP Server
 We had the charging attachment for this device but nothing to connect it to the PC. We opted to use the on-prem Filezilla server to distribute builds (.CAB files)
@@ -405,7 +405,7 @@ After a few days of searching, I had eventually come up with a piece of code for
 
 **My mood whilst writing this solution**
 
-![My mood whilst writing this solution](https://storage.googleapis.com/rexchoppers-website-assets/dot-net-before-solution.jpeg "My mood whilst writing this solution"){: width="250" }
+![My mood whilst writing this solution](/assets/dot-net-before-solution.jpeg "My mood whilst writing this solution"){: width="250" }
 
 **The code**
 
@@ -544,7 +544,7 @@ class Rest
 
 **Pure ecstasy**
 
-![Pure ecstasy](https://storage.googleapis.com/rexchoppers-website-assets/dot-net-after-solution.jpeg "Pure ecstasy"){: width="250" }
+![Pure ecstasy](/assets/dot-net-after-solution.jpeg "Pure ecstasy"){: width="250" }
 
 # Final Project + Final Words
 After the initial prototype and being able to say to my manager "Yes, this can be done" I quickly got a new project created and in December, we released the first version out to the warehouse. Whilst there were teething issues at the start, this solution made inbound and collections so much quicker. 

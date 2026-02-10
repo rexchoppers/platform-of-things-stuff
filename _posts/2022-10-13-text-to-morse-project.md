@@ -25,4 +25,4 @@ If you're wanting to learn morse code for the fun of it, I'd recommend the [Mors
 
 # Images
 
-![Screen shot](https://storage.googleapis.com/rexchoppers-website-assets/text-to-morse-image.png "Screen shot")
+![Screen shot](/assets/text-to-morse-image.png "Screen shot")

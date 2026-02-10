@@ -18,7 +18,7 @@ GLMI = Grafana Let Me In (The name makes no sense if I'm being honest but it was
 Absolutely feel free to add any ideas, issues or anything else to this project. It will remain open source, forever.
 
 # Images
-![Whitelisted IPs](https://storage.googleapis.com/rexchoppers-website-assets/glmi-whitelisted-ips.png "Whitelisted IPs"){: width="250" }
+![Whitelisted IPs](/assets/glmi-whitelisted-ips.png "Whitelisted IPs"){: width="250" }
 
 # Repository
 

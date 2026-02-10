@@ -42,12 +42,12 @@ Manchester Royal Infirmary A&E. After explaining to triage, I was sent to the fr
 
 **Sagittal**
 
-![Sagittal](https://storage.googleapis.com/rexchoppers-website-assets/mpfl/2023-xray-1.png "Sagittal"){: width="400" }
+![Sagittal](/assets/mpfl/2023-xray-1.png "Sagittal"){: width="400" }
 
 
 **Coronal**
 
-![Coronal](https://storage.googleapis.com/rexchoppers-website-assets/mpfl/2023-xray-2.png "Coronal"){: width="400" }
+![Coronal](/assets/mpfl/2023-xray-2.png "Coronal"){: width="400" }
 
 The report from the radiologist was that everything looked fine apart from a small piece of bone that had chipped off. 
 
