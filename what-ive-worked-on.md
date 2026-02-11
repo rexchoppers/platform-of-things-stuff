@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Projects
+title: What I've Worked On
 nav_order: 2
 ---
 
-# Projects
+# What I've Worked On
 
 As humans, sometimes it's hard to see the bigger picture. We get caught up in the day-to-day and forget to look at the bigger picture. This page is a collection of projects I've worked on over the years. Some are big, small, open-source, employer projects, and some are just for fun.
 
