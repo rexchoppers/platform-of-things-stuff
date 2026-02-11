@@ -21,5 +21,3 @@ color_scheme: dark
 back_to_top: true
 back_to_top_text: "Back to top"
 
-# Footer content (empty to remove default text)
-footer_content: ""
