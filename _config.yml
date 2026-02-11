@@ -11,8 +11,12 @@ search_enabled: true
 
 # Aux links (top right)
 aux_links:
-  "View on GitHub":
-    - "https://github.com/your-username/platform-of-things-articles"
+  "GitHub":
+    - "https://github.com/rexchoppers"
+  "LinkedIn":
+    - "https://www.linkedin.com/in/connor-brady-50984311b"
+
+aux_links_new_tab: true
 
 # Color scheme (light, dark, or custom)
 color_scheme: dark
