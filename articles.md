@@ -18,8 +18,8 @@ Browse all articles below.
 - [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
 {% endif %}{% endfor %}
 
-## Tutorials and Reviews
-{% for post in site.posts %}{% if post.category == "Tutorials and Reviews" %}
+## Tutorials/Reviews
+{% for post in site.posts %}{% if post.category == "Tutorials/Reviews" %}
 - [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
 {% endif %}{% endfor %}
 
