@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Visonic Powermaster GTX Compact Review"
-category: Tutorials + Reviews
+category: Tutorials/Reviews
 ---
 
 # Overview

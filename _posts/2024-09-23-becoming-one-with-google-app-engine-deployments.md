@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Becoming One With Google App Engine Deployments"
-category: Code + Tech
+category: Code/Tech
 ---
 
 # Overview

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adding Supervisord to AWS Elastic Beanstalk"
-category: Code + Tech
+category: Code/Tech
 ---
 
 # Overview

@@ -6,6 +6,8 @@ theme: just-the-docs
 url: ""
 baseurl: ""
 
+permalink: /:year/:month/:day/:title:output_ext
+
 # Enable search
 search_enabled: true
 
