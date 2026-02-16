@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Apollo RT-760 Pager (138.075) MHz"
-category: Tutorials/Reviews
+category: Tutorials + Reviews
 ---
 
 # Background

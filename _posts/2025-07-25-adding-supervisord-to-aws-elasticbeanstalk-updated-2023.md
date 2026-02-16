@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adding Supervisord to AWS Elastic Beanstalk (Updated for Amazon Linux 2023)"
-category: Code/Tech
+category: Code + Tech
 ---
 
 * TOC

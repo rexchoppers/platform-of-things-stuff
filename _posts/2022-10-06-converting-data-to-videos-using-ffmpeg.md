@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Converting Data To Videos Using FFmpeg"
-category: Code/Tech
+category: Code + Tech
 ---
 
 # Background

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Decoding With SDR"
-category: Code/Tech
+category: Code + Tech
 ---
 
 # Background

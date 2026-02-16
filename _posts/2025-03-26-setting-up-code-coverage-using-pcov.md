@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setting Up Code Coverage Using pcov"
-category: Code/Tech
+category: Code + Tech
 toc: true
 ---
 

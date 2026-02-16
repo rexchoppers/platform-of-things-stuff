@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "More Visonic Reverse Engineering"
-category: Code/Tech
+category: Code + Tech
 ---
 
 # Overview

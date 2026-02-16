@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cypress To Playwright Migration"
-category: Code/Tech
+category: Code + Tech
 toc: true
 ---
 
