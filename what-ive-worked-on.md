@@ -22,6 +22,9 @@ If you're interested in any of the projects, feel free to reach out to me
 - **Client A Project Changes**
     - **Description**: Migration away from Gitlab + PHP, consolidation of services, and security/maintenance updates
     - **Tech**: GO, GCP, Github Actions, Docker, Run Functions, MySQL, Cloud Run, Typescript, Angular
+- **rexchoppers.com Updates**
+    - **Description**: Jumping on the vibe coding trend - Updating my personal site to be more interactive, fun to look at and to learn Three.js
+    - **Tech**: Three.js, Claude, Vite
 
 # 2025
 - **Contributions to discovery.onl Project**
