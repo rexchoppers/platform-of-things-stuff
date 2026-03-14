@@ -19,6 +19,9 @@ If you're interested in any of the projects, feel free to reach out to me
 - **Trakkt**
     - **Description**: TBA
     - **Tech**: AWS, AWS CDK, TS, MongoDB
+- **Client A Project Changes**
+    - **Description**: Migration away from Gitlab + PHP, consolidation of services, and security/maintenance updates
+    - **Tech**: GO, GCP, Github Actions, Docker, Run Functions, MySQL, Cloud Run, Typescript, Angular
 
 # 2025
 - **Contributions to discovery.onl Project**
