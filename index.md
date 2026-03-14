@@ -35,6 +35,8 @@ I'm currently a Senior Full-Stack Developer @ LocalStack
     - The Open University
     - Expected: 2027
 
+## Affiliations
+- BCS Professional member (MBCS)
 
 ## Certifications
 - AWS Certified Developer – Associate
