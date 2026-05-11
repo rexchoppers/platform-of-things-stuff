@@ -19,12 +19,27 @@ If you're interested in any of the projects, feel free to reach out to me
 - **Trakkt**
     - **Description**: TBA
     - **Tech**: AWS, AWS CDK, TS, MongoDB
+- **Trakkt Templates/Information Gathering**
+    - **Description**: TBA
+    - **Tech**: AWS (Bedrock), Python, MongoDB
 - **Client A Project Changes**
     - **Description**: Migration away from Gitlab + PHP, consolidation of services, and security/maintenance updates
     - **Tech**: GO, GCP, Github Actions, Docker, Run Functions, MySQL, Cloud Run, Typescript, Angular
 - **rexchoppers.com Updates**
     - **Description**: Jumping on the vibe coding trend - Updating my personal site to be more interactive, fun to look at and to learn Three.js
     - **Tech**: Three.js, Claude, Vite
+- **Tractive MCP**
+    - **Description**: Fun side project to allow AI agents to interact with my pet's Tractive tracker
+    - **Tech**: MCP, Python
+- **Model Building**
+    - **Description**: Expanding knowledge and learning how to build/train models from scratch
+    - **Tech**: Python
+- **Gamedio**
+    - **Description**: Dumb project for announcing what's being thrown down the microphone in-game
+    - **Tech**: Python, llama_cpp
+- **Software Reverse Engineering**
+    - **Description**: As part of becoming more T shaped, I've been working on several projects to reverse engineer software ethically and legally
+    - **Tech**: Ghidra, Python, Powershell, Bash, Rust, JS, Packer, VMWare/VirtualBox
 
 # 2025
 - **Contributions to discovery.onl Project**
